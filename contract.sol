@@ -1,4 +1,4 @@
-// SPDX-License-Identifier: MIT Dylan het workk
+// SPDX-License-Identifier: MIT Dylan, Martin en Glenn
 
 pragma solidity ^0.7.6;
 
